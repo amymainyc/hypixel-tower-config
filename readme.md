@@ -1,17 +1,10 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+## 🏰 TowerConfig (WIP)
+Design and share defenses for the Hypixel TowerWars Minigame!  
+View website here: (wip)
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+#### Credits:
+Moonflower: developer  
+LeaPhant: website design inspiration
 
-``` bash
-# Install dependencies (only the first time)
-npm install
-
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+## 🎮 Discord
+Link your Minecraft account to your TowerConfig account here: (coming soon) 
