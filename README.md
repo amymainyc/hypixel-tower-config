@@ -1,5 +1,5 @@
 ## 🏰 Tower Config
-A website for Hypixel TowerWars guides and defense building made with [three.js](threejs.org).  
+A website for Hypixel TowerWars guides and defense building made with [three.js](https://threejs.org).  
 
 #### Credits
 Developer: Moonflower (Amy)  
